@@ -1,0 +1,71 @@
+﻿<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>7070</Id>
+  <UserName>Master</UserName>
+  <Date>1900-01-01T00:00:00</Date>
+  <ValidityPeriod>
+    <StartDate>1900-01-01T00:00:00</StartDate>
+    <EndDate>9999-12-31T23:59:00</EndDate>
+  </ValidityPeriod>
+  <ReportValues>
+    <ValueGroup>
+      <DataName>STRUC</DataName>
+      <DataID>BOX1</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>OFFI</DataName>
+      <DataID>BOX2</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>DEPA</DataName>
+      <DataID>BOX3</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>GRUP</DataName>
+      <DataID>BOX4</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>OLUKORD</DataName>
+      <DataID>BOX5</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Väljasõtude arve</DataName>
+      <DataID>DATA_1</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Kiirus piiranguid</DataName>
+      <DataID>DATA_2</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Joobes juhte</DataName>
+      <DataID>DATA_3</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Rongi üle sõite</DataName>
+      <DataID>DATA_4</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Põgenemisi autoga</DataName>
+      <DataID>DATA_5</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Ilma lubadeta</DataName>
+      <DataID>DATA_6</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+    <ValueGroup>
+      <DataName>Selgusetu olukord</DataName>
+      <DataID>DATA_7</DataID>
+      <DataValue></DataValue>
+    </ValueGroup>
+  </ReportValues>
+</Package>
